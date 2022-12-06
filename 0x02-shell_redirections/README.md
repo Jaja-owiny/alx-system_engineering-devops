@@ -6,6 +6,7 @@
 3-Script concatinate and display the output of two files.
 4-Script displays the last specified number of lines in a file.
 5-Script displays the first specified number of lines in a file.
+6-Script displays the 3rd line of a file.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
