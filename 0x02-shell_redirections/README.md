@@ -9,6 +9,7 @@
 6-Script displays the 3rd line of a file.
 7-Script creates a file and insert  words after.
 8-Script writes into a file the output of a command.
+9-Script duplicates the last line of a file.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
