@@ -16,7 +16,8 @@
 13-unique - Script takes a list of words as input and prints only wwords that appear exactly once.
 14-findthatword - Script searches for the word 'root' in the specified directory path.
 15-countthatword - Script counts theoccurance of the word 'bin' in the specified directory.
-16-whatsnext - Script displays lines containing the word 'root' and three lines after them in the specified directory. 
+16-whatsnext - Script displays lines containing the word 'root' and three lines after them in the specified directory.
+17-hidethisword - Script prints all lines in the specified directory that do not contain the word 'bin'
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
