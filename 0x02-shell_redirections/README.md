@@ -18,6 +18,7 @@
 15-countthatword - Script counts theoccurance of the word 'bin' in the specified directory.
 16-whatsnext - Script displays lines containing the word 'root' and three lines after them in the specified directory.
 17-hidethisword - Script prints all lines in the specified directory that do not contain the word 'bin'
+18-lettersonly - Script displays lines of the files in a specified directory that begin with a letter, including capital letters.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
