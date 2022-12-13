@@ -15,6 +15,7 @@
 12-newest_files - Script lists the 10 newest files in the current directory.
 13-unique - Script takes a list of words as input and prints only wwords that appear exactly once.
 14-findthatword - Script searches for the word 'root' in the specified directory path.
+15-countthatword - Script counts theoccurance of the word 'bin' in the specified directory. 
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
