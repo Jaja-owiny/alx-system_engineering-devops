@@ -19,6 +19,7 @@
 16-whatsnext - Script displays lines containing the word 'root' and three lines after them in the specified directory.
 17-hidethisword - Script prints all lines in the specified directory that do not contain the word 'bin'
 18-lettersonly - Script displays lines of the files in a specified directory that begin with a letter, including capital letters.
+19-AZ - Script replaces all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
