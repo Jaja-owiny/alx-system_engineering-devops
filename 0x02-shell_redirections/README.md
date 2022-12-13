@@ -11,6 +11,7 @@
 8-Script writes into a file the output of a command.
 9-Script duplicates the last line of a file.
 10- Script deletes any file with extension .js in the working directory recussively.
+11- counta the number of directories and subdirectories.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
