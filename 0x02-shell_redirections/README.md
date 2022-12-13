@@ -13,6 +13,7 @@
 10-no_more_js - Script deletes any file with extension .js in the working directory recussively.
 11-directories - counta the number of directories and subdirectories.
 12-newest_files - Script lists the 10 newest files in the current directory.
+13-unique - Script takes a list of words as input and prints only wwords that appear exactly once.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
