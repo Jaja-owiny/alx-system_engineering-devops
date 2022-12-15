@@ -20,6 +20,13 @@
 17-hidethisword - Script prints all lines in the specified directory that do not contain the word 'bin'
 18-lettersonly - Script displays lines of the files in a specified directory that begin with a letter, including capital letters.
 19-AZ - Script replaces all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
+20-hiago - Script removes all letters c and C from input.
+21-reverse - Script reverses its input.
+22-users_and_homes - Script displays alll users and their home directories, sorted by users.
+100-empty_cakes - Script finds all empty files and directories in the current directories and all subdirectories.
+101-gifs - Scipt lists all files with a .gif extension in the current directory and all its subdirectories.
+102-acrostic - Script decodes acrostic that use the first letter of each line.
+103-the_biggest_fan - Script parses web servers logs in TVS format as input and display the 11 hosts or IP adresses which did the most request.
 =======
 #Input/Output Redirection project
 1-Script prints the words in ('') to the display screen.
