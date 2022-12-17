@@ -12,4 +12,4 @@
 11-directories_permissions - Script adds execute permissions to all subdirectories of the current directory for thw owner, group owner and all the others, files should are not changed.
 12-directory_permissions - Scipt creates a directory called my_dir  with the permissions 751 in the working directory.
 13-change_group - Script changes the group owner to school for the file hello in the working directory.
-14-change_owner_and_group - Script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+100-change_owner_and_group - Script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
