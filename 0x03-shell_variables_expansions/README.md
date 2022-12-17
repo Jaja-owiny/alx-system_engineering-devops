@@ -14,3 +14,4 @@
 13-print_float - Script prints a number with two decimal places. 
 100-decimal_to_hexadecimal - Script converts a numberfrom base 10 to base 16.
 101-rot13 - Scipt encodes and decodes text using the rot3 encryption.
+102-odd - Script prints every other line from the input and starts with the first line.
