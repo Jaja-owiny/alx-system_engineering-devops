@@ -1,0 +1,7 @@
+0-alias - Script creates an alias, ls that removes all files in the current directory.
+1-hello_you - Script prints 'hello user' where the user is the current user.
+2-path - Script adds the directory /action to the PATH as the last directory.
+3-paths -  Script counts the number of directories in th PATH.
+4-global_variables - Script lists lists all the global variables.
+5-local_variables - Script lists all local variables and environment variables, and functions.
+
