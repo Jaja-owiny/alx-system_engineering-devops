@@ -5,4 +5,5 @@
 4-global_variables - Script lists lists all the global variables.
 5-local_variables - Script lists all local variables and environment variables, and functions.
 6-create_local_variable - Script that creates a new local variable.
-7--create_global_variable - Script creates a new global variable. 
+7-create_global_variable - Script creates a new global variable. 
+8-true_knowledge - Script prints the results of addition of 128 with value stored in the variable TRUEKNOWLEDGE.
