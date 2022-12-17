@@ -10,3 +10,4 @@
 9-divide_and_rule - Script prints the result of POWER divided by DIVIDE, followed by a new line.
 10-love_exponent_breath - Script prints the value of BREATH raised to the value of LOVE.
 11-binary_to_decimal - Script converts a number from base 2 to base 10.
+12-combinations - Script prints all possible combination of letters, in small letters,with exception of 'oo'.
