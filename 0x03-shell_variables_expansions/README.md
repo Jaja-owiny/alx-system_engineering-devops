@@ -7,3 +7,4 @@
 6-create_local_variable - Script that creates a new local variable.
 7-create_global_variable - Script creates a new global variable. 
 8-true_knowledge - Script prints the results of addition of 128 with value stored in the variable TRUEKNOWLEDGE.
+9-divide_and_rule - Script prints the result of POWER divided by DIVIDE, followed by a new line.
